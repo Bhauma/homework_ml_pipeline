@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ii_barinov/Desktop/homework_ml_pipeline/mlruns/572656234680677004/bcfa06a74fc0460bae5a3c436fe17d8a/artifacts
+end_time: 1743855186883
+entry_point_name: ''
+experiment_id: '572656234680677004'
+lifecycle_stage: active
+run_id: bcfa06a74fc0460bae5a3c436fe17d8a
+run_name: gentle-sponge-551
+run_uuid: bcfa06a74fc0460bae5a3c436fe17d8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743855179371
+status: 3
+tags: []
+user_id: ii_barinov

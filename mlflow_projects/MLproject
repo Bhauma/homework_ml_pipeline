@@ -1,0 +1,7 @@
+# Конфигурация MLFlow-проекта
+name: Example_MLFlow_Project
+
+# Определяем точку входа проекта
+entry_points:
+  main:
+    command: "python train.py"

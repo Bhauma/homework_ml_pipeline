@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/ii_barinov/Desktop/homework_ml_pipeline/mlruns/572656234680677004
+creation_time: 1743855179065
+experiment_id: '572656234680677004'
+last_update_time: 1743855179065
+lifecycle_stage: active
+name: Example_MLFlow_AirFlow

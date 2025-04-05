@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ii_barinov/Desktop/homework_ml_pipeline/mlruns/572656234680677004/8fbeb9277a014d3b91ef5949c61fb063/artifacts
+end_time: 1743855317529
+entry_point_name: ''
+experiment_id: '572656234680677004'
+lifecycle_stage: active
+run_id: 8fbeb9277a014d3b91ef5949c61fb063
+run_name: monumental-shrew-680
+run_uuid: 8fbeb9277a014d3b91ef5949c61fb063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743855310678
+status: 3
+tags: []
+user_id: ii_barinov
